@@ -24,11 +24,12 @@ Make sure you have the following dependencies installed:
 
 You can install them using pip:
 
-pip install streamlit 
-pip install pandas
-pip install SpeechRecognition
-pip install googletrans
-pip install scikit-learn nltk
+- pip install streamlit
+- pip install pandas
+- pip install SpeechRecognition
+- pip install googletrans
+- pip install scikit-learn
+- pip install nltk
 
 
 ## How to Run
