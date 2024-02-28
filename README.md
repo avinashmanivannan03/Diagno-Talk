@@ -37,8 +37,7 @@ You can install them using pip:
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the code.
 3. Run the following command:
-
-streamlit run final.py
+          streamlit run final.py
 
 This will start the Streamlit server, and you can access the application through your web browser.
 
