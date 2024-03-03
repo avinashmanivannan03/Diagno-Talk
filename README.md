@@ -27,19 +27,19 @@ You can install them using pip:
     ```bash
     - pip install streamlit
     
-    ```bash
+    
     - pip install pandas
     
-    ```bash
+    
     - pip install SpeechRecognition
     
-    ```bash
+    
     - pip install googletrans
     
-    ```bash
+    
     - pip install scikit-learn
     
-    ```bash
+    
     - pip install nltk
 
 
