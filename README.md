@@ -22,25 +22,19 @@ Make sure you have the following dependencies installed:
 - Scikit-learn
 - NLTK
 
-You can install them using pip:
-
-    ```bash
-    - pip install streamlit
+You can install them using pip:  ```bash
+        
+         - pip install streamlit
     
+         - pip install pandas
     
-    - pip install pandas
+         - pip install SpeechRecognition
     
+         - pip install googletrans
     
-    - pip install SpeechRecognition
+         - pip install scikit-learn
     
-    
-    - pip install googletrans
-    
-    
-    - pip install scikit-learn
-    
-    
-    - pip install nltk
+         - pip install nltk
 
 
 ## How to Run
