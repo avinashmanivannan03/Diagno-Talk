@@ -22,7 +22,9 @@ Make sure you have the following dependencies installed:
 - Scikit-learn
 - NLTK
 
-You can install them using pip:  ```bash
+You can install them using pip:  
+        
+        ```bash
         
          - pip install streamlit
     
